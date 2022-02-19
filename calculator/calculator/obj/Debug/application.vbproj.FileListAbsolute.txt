@@ -1,0 +1,12 @@
+C:\Users\Javad\source\repos\application\application\obj\Debug\application.form1.resources
+C:\Users\Javad\source\repos\application\application\obj\Debug\application.Resources.resources
+C:\Users\Javad\source\repos\application\application\obj\Debug\application.vbproj.GenerateResource.cache
+C:\Users\Javad\source\repos\application\application\obj\Debug\application.vbproj.CoreCompileInputs.cache
+C:\Users\Javad\source\repos\application\application\obj\Debug\application.vbprojAssemblyReference.cache
+C:\Users\Javad\source\repos\application\application\bin\Debug\Calculator.exe.config
+C:\Users\Javad\source\repos\application\application\bin\Debug\Calculator.exe
+C:\Users\Javad\source\repos\application\application\bin\Debug\Calculator.pdb
+C:\Users\Javad\source\repos\application\application\bin\Debug\Calculator.xml
+C:\Users\Javad\source\repos\application\application\obj\Debug\Calculator.exe
+C:\Users\Javad\source\repos\application\application\obj\Debug\Calculator.xml
+C:\Users\Javad\source\repos\application\application\obj\Debug\Calculator.pdb
